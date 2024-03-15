@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
         // This new calculator class is awesome
         val a = Calculator()
 
+        // Work is done waiting for payment
+
+
     }
 }
