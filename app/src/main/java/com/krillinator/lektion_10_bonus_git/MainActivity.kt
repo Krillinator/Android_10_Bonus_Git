@@ -9,10 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // This new calculator class is awesome
-        val a = Calculator()
+        val myTest = Calculator()
 
-        // Work is done waiting for payment
-
+        // Invoke method
+        println(myTest.addition(15, 15))
 
     }
 }
